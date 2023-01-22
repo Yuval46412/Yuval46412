@@ -16,7 +16,7 @@
 
 
 Currently looking for a junior position as a Full
-Stack Developer / Software Engineer in the Central
+Stack Developernin the Central
 District of Israel. <br/>
 Available to work full-time.
 
