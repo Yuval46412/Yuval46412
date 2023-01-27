@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuval David  :)</h1>
+<h1 align="center">Hi, I'm Yuval David 🌸</h1>
 <h3  align="center">A passionate Full stack developer from Israel</h3>
 <p align="center" > <img src="https://c.tenor.com/S59bPkT0pqcAAAAC/programming.gif"  /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuval46412&label=Profile%20views&color=0e75b6&style=flat" alt="yuval46412" /> </p>
@@ -14,8 +14,7 @@
 <a href="https://www.linkedin.com/in/yuvaldavid1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuval david" height="30" width="40" /></a>
 </p>
 
-Hi, I'm Yuval 🌸
-A Full Stack Developer and Graduated with a bachelor's degree in Computer Science (B.Sc ).
+A Full Stack Developer and Graduated with a bachelor's degree in Computer Science (B.Sc ).<br/>
 Knowledge in MERN || 𝗠ongoDB 𝗘xpress 𝗥eact 𝗡ode.JS
 
 I'm currently looking for a junior position as a Full Stack Developer in the Central District area.<br/>
