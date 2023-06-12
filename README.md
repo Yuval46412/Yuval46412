@@ -15,7 +15,6 @@
 </p>
 
 A Full Stack Developer and Graduated with a bachelor's degree in Computer Science (B.Sc ).<br/>
-Knowledge in MERN || 𝗠ongoDB 𝗘xpress 𝗥eact 𝗡ode.JS
 
 I'm currently looking for a junior position as a Full Stack Developer in the Central District area.<br/>
 Available to work full-time.
