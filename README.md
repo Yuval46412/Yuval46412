@@ -16,7 +16,7 @@
 
 A Full Stack Developer and Graduated with a bachelor's degree in Computer Science (B.Sc ).<br/>
 
-I'm currently looking for a junior position as a Full Stack Developer in the Central District area.<br/>
+I'm currently looking for a junior position as a Full Stack Developer.<br/>
 Available to work full-time.
 
 I face adversity with a smile 🙂
